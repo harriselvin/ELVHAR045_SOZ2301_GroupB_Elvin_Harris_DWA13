@@ -1,7 +1,5 @@
 # Dynamic Web Apps Challenge 13
 
-```Markdown
-
 ## Project Summary
 
 This project involves working with arrays and array methods in JavaScript. It includes exercises to manipulate arrays, iterate over array elements, and perform various transformations using array methods such as `forEach`, `map`, `filter`, and `reduce`.
